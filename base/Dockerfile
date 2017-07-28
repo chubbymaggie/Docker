@@ -1,8 +1,8 @@
-FROM opensuse:42.3
+FROM opensuse:42.2
 LABEL org.srcml.email="srcmldev@gmail.com" \
       org.srcml.url="srcml.org" \
       org.srcml.distro="opensuse" \
-      org.srcml.osversion="42.3" \
+      org.srcml.osversion="42.2" \
       org.srcml.architecture="x86_64" \
       org.srcml.boost="1.64.0" \
       org.srcml.antlr="2.7.7"
